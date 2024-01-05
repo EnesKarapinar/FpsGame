@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33045028592174954}
   - component: {fileID: 23721682388819210}
   - component: {fileID: 64542528437881220}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: rocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1326801592698068}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.01652427, z: -0, w: 0.9998635}
+  m_LocalRotation: {x: 0, y: -0.016527552, z: 0, w: 0.99986345}
   m_LocalPosition: {x: 135.17, y: 0.62, z: 102.44}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
